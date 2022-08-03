@@ -13,7 +13,7 @@ pip install -U chaostoolkit
 pip install -U chaostoolkit-spring
 ```
 
-## Running the experiment (automation)
+## Running the experiments
 ```console
 chaos run path_to_experiments.json
 ```
