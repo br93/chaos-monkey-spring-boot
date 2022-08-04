@@ -8,7 +8,7 @@
     "probes": [
       {
         "type": "probe",
-        "name": "we-can-retrieve-data",
+        "name": "is-available",
         "tolerance": 200,
         "provider": {
           "type": "http",
